@@ -7,4 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  base: '/wedding-photography-portfolio/', // Set base for GitHub Pages
 });
